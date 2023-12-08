@@ -1,1 +1,1 @@
-# Introduction-of-c-language
+# Introduction-of-C-language
